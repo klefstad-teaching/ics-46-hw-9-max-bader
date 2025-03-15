@@ -1,6 +1,7 @@
-#include "dijkstra.h"
+#include "dijkstras.h"
 #include <queue>
 #include <iostream>
+#include <algorithm>
 
 using namespace std;
 
